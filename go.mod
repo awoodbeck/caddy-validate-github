@@ -78,7 +78,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.0.1 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
-	github.com/sirupsen/logrus v1.8.1 // indirect
+	github.com/sirupsen/logrus v1.8.3 // indirect
 	github.com/slackhq/nebula v1.5.2 // indirect
 	github.com/smallstep/certificates v0.19.0 // indirect
 	github.com/smallstep/cli v0.18.0 // indirect
