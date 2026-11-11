@@ -1,6 +1,6 @@
 module github.com/awoodbeck/caddy-validate-github
 
-go 1.18
+go 1.24
 
 require (
 	github.com/caddyserver/caddy/v2 v2.5.2
@@ -47,7 +47,7 @@ require (
 	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
 	github.com/jackc/pgtype v1.14.0 // indirect
 	github.com/jackc/pgx/v4 v4.18.2 // indirect
-	github.com/klauspost/compress v1.15.6 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.13 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
 	github.com/lucas-clemente/quic-go v0.28.0 // indirect
